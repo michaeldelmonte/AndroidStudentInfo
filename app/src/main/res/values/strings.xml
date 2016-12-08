@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidStudentInfo</string>
+
+    <string-array name="course_array">
+        <item>----</item>
+        <item>BSIT</item>
+        <item>BSCOE</item>
+        <item>BSED</item>
+        <item>BSAD</item>
+    </string-array>
+</resources>
